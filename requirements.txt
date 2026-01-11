@@ -1,0 +1,6 @@
+python-telegram-bot>=22.5
+python-dotenv
+claude-agent-sdk
+mem0ai>=1.0.1
+requests
+httpx>=0.25.0
